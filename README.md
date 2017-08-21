@@ -1,4 +1,4 @@
-# python_typing_game
+# Python plays a typing game
 Python plays an English typing game ([Typing Test English](https://10fastfingers.com/typing-test/english)).
 
 # Required libraries
