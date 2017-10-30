@@ -1,7 +1,7 @@
-# Python plays a typing game
-Python plays an English typing game ([Typing Test English](https://10fastfingers.com/typing-test/english)).
+# Python Typing Game
+Python plays an [English typing game](https://10fastfingers.com/typing-test/english)).
 
-# Required libraries
+# Required Libraries
 - Numpy
 - Matplotlib
 - Pillow
@@ -10,7 +10,7 @@ Python plays an English typing game ([Typing Test English](https://10fastfingers
 - OpenCV
 - PyAutoGUI
 
-# How it works
+# How It Works
 1. selenium open Chrome and goes to [Typing Test English](https://10fastfingers.com/typing-test/english).
 2. pillow captures the area where English words are displayed.
 3. opencv bainarizes the captured image to improve the accuracy of pytesseract.
