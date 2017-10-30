@@ -1,5 +1,6 @@
 # Python Typing Game
-Python plays an [English typing game](https://10fastfingers.com/typing-test/english).
+Python plays an [English typing game](https://10fastfingers.com/typing-test/english).<br>
+Here's how it works on my Youtube channel : https://www.youtube.com/watch?v=Z4TcF5bT0FE
 
 # Required Libraries
 - Numpy
@@ -17,4 +18,3 @@ Python plays an [English typing game](https://10fastfingers.com/typing-test/engl
 4. pytesseract extracts English words from the image.
 5. pyautogui automatically types the English words.
 
-Here's how it works on my Youtube channel : https://www.youtube.com/watch?v=Z4TcF5bT0FE
