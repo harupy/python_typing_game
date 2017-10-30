@@ -12,9 +12,9 @@ Here's how it works on [my YouTube channel](https://www.youtube.com/watch?v=Z4Tc
 - PyAutoGUI
 
 # How It Works
-1. selenium open Chrome and goes to [Typing Test English](https://10fastfingers.com/typing-test/english).
-2. pillow captures the area where English words are displayed.
-3. opencv bainarizes the captured image to improve the accuracy of pytesseract.
-4. pytesseract extracts English words from the image.
-5. pyautogui automatically types the English words.
+1. Selenium open Chrome and goes to [Typing Test English](https://10fastfingers.com/typing-test/english).
+2. Pillow captures the area where English words are displayed.
+3. OpenCV bainarizes the captured image to improve the accuracy of pytesseract.
+4. Pytesseract extracts English words from the image.
+5. Pyautogui automatically types the English words.
 
