@@ -18,7 +18,3 @@ Python plays an English typing game ([Typing Test English](https://10fastfingers
 5. pyautogui automatically types the English words.
 
 Here's how it works on my Youtube channel : https://www.youtube.com/watch?v=Z4TcF5bT0FE
-
-# Improvements
-1. pytesseract sometimes misrecognizes words which start with lower-case "w".
-2. The arguments of ImageGrab work only for my enviroment. I'm trying to implement a program like window's snipping tool to get the pixel coordinates on the screen.
