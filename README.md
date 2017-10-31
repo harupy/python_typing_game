@@ -13,8 +13,7 @@ Here's how it works on [my YouTube channel](https://www.youtube.com/watch?v=Z4Tc
 
 # How It Works
 1. Selenium open Chrome and goes to [Typing Test English](https://10fastfingers.com/typing-test/english).
-2. Pillow captures the area where English words are displayed.
-3. OpenCV bainarizes the captured image to improve the accuracy of pytesseract.
-4. Pytesseract extracts English words from the image.
-5. Pyautogui automatically types the English words.
-
+2. Pillow captures an image from the screen.
+3. OpenCV bainarizes the captured image to improve the accuracy of OCR.
+4. Pytesseract extracts English words from the binarized image.
+5. Pyautogui automatically types the extracted English words.
