@@ -1,6 +1,10 @@
 # Python Typing Game
 Python plays an [English typing game](https://10fastfingers.com/typing-test/english).
 
+# Environment
+- OS: Windows 10
+- Python version: 3.6.3
+
 # Required Libraries
 - Numpy
 - Matplotlib
