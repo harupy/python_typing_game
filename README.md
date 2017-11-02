@@ -17,3 +17,5 @@ Here's how it works on [my YouTube channel](https://www.youtube.com/watch?v=t3jw
 3. OpenCV bainarizes the captured image to improve the accuracy of OCR.
 4. Pytesseract extracts English words from the binarized image.
 5. PyAutoGUI automatically types the extracted English words.
+
+![result](https://github.com/harupy/typing_game/video.gif)
