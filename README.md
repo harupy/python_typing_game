@@ -1,5 +1,5 @@
 # Python Typing Game
-Python plays an [English typing game](https://10fastfingers.com/typing-test/english). [Here's how it works.](https://www.youtube.com/watch?v=t3jwDWAF5y0)
+Python plays an [English typing game](https://10fastfingers.com/typing-test/english).
 
 # Required Libraries
 - Numpy
@@ -11,6 +11,9 @@ Python plays an [English typing game](https://10fastfingers.com/typing-test/engl
 - PyAutoGUI
 
 # How It Works
+
+[Here's how it works.](https://www.youtube.com/watch?v=t3jwDWAF5y0)
+
 1. Selenium open Chrome and goes to [Typing Test English](https://10fastfingers.com/typing-test/english).
 2. Pillow captures an image from the screen.
 3. OpenCV binarizes the captured image to improve the accuracy of OCR.
