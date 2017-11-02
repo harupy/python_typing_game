@@ -1,6 +1,5 @@
 # Python Typing Game
-Python plays an [English typing game](https://10fastfingers.com/typing-test/english).<br>
-[Here's how it works.](https://www.youtube.com/watch?v=t3jwDWAF5y0)
+Python plays an [English typing game](https://10fastfingers.com/typing-test/english). [Here's how it works.](https://www.youtube.com/watch?v=t3jwDWAF5y0)
 
 # Required Libraries
 - Numpy
