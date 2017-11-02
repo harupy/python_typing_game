@@ -1,11 +1,11 @@
 # Python Typing Game
 Python plays an [English typing game](https://10fastfingers.com/typing-test/english).
 
-# Environment
+## Environment
 - OS: Windows 10
 - Python version: 3.6.3
 
-# Required Libraries
+## Required Libraries
 - Numpy
 - Matplotlib
 - Pillow
@@ -14,7 +14,7 @@ Python plays an [English typing game](https://10fastfingers.com/typing-test/engl
 - OpenCV
 - PyAutoGUI
 
-# How It Works
+## How It Works
 1. Selenium opens up Chrome and goes to the game website.
 2. Pillow captures an image from the screen.
 3. OpenCV binarizes the captured image to improve the accuracy of OCR.
