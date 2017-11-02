@@ -17,7 +17,7 @@ Python plays an [English typing game](https://10fastfingers.com/typing-test/engl
 4. Pytesseract extracts English words from the binarized image.
 5. PyAutoGUI automatically types the extracted English words.
 
-You can see how this program works on [my YouTube channel](https://www.youtube.com/watch?v=t3jwDWAF5y0)
+You can see how this program works [here](https://www.youtube.com/watch?v=t3jwDWAF5y0).
 
 <br>
 
