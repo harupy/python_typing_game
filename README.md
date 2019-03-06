@@ -4,8 +4,8 @@ A Python program to solve [this English typing game](https://10fastfingers.com/t
 
 ## Usage
 1. Run `python typing_game.py`
-1. Capture the area where English words are displayed
-2. Just wait for the game to end
+2. Capture the area where English words are displayed
+3. Just wait for the game to end
 
 ## How this works
 1. Capture the specified area on the screen
