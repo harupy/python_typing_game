@@ -1,6 +1,6 @@
 # Typing Game Solver
 
-A Python program to solve an English typing game [URL](https://10fastfingers.com/typing-test/english)
+A Python program to solve [this English typing game](https://10fastfingers.com/typing-test/english)
 
 ## Usage
 1. Capture the area where English words are displayed
