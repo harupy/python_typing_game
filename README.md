@@ -4,12 +4,12 @@ A Python program to solve [this English typing game](https://10fastfingers.com/t
 
 ## Usage
 1. Capture the area where English words are displayed
-2. Just wait for the program to solve the game
+2. Just wait for the game to end
 
-## How it works
+## How this works
 1. Capture the specified area on the screen
-2. OCR extracts English words from the captured image
-3. Type the extracted English words with `PyAutoGui`
+2. Apply OCR to the captured image to extract English words 
+3. Type the extracted words with `PyAutoGui`
 4. Repeat 1 ~ 3 until the game ends
 
 ## Demo
