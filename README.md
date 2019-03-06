@@ -3,7 +3,7 @@
 A Python program to solve [this English typing game](https://10fastfingers.com/typing-test/english)
 
 ## Usage
-1. Run `python typing_game.py`
+1. `python typing_game.py`
 2. Capture the area where English words are displayed
 3. Just wait for the game to end
 
