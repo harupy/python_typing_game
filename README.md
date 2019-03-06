@@ -7,10 +7,10 @@ A Python program to solve [this English typing game](https://10fastfingers.com/t
 2. Just wait for the program to solve the game
 
 ## How it works
-1. Capture the screen
-2. Preprocess the captured image
-3. OCR extracts English words from the captured image
-4. Type the extracted English words using `PyAutoGui`
+1. Capture the specified area on the screen
+2. OCR extracts English words from the captured image
+3. Type the extracted English words with `PyAutoGui`
+4. Repeat 1 ~ 3 until the game ends
 
 ## Demo
 ![demo](https://github.com/harupy/typing_game/blob/master/video.gif)
